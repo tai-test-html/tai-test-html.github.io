@@ -49,7 +49,7 @@ a {
   background-color: #239b76;
 }
 .signup:active {
-  opacity: 1;
+  opacity: 0.8;
 }  
 
 .facebook {
@@ -57,14 +57,14 @@ a {
   margin-right: 10px;
 }
 .facebook:active {
-  opacity: 1;
+  opacity: 0.8;
 }  
 
 .twitter {
   background-color: #55acee;
 }
 .twitter:active {
-  opacity: 1;
+  opacity: 0.8;
 }  
 
 .btn {
