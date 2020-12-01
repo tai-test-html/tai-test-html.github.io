@@ -48,15 +48,24 @@ a {
 .signup {
   background-color: #239b76;
 }
+.signup:active {
+  opacity: 1;
+}  
 
 .facebook {
   background-color: #3b5998;
   margin-right: 10px;
 }
+.facebook:active {
+  opacity: 1;
+}  
 
 .twitter {
   background-color: #55acee;
 }
+.twitter:active {
+  opacity: 1;
+}  
 
 .btn {
   padding: 8px 24px;
